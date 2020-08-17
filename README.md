@@ -1,3 +1,3 @@
 # LateToTheParty
 print('Hello world')
-# not very opriginal, i know
+# some good problems from Codewars. "8 queens" realized with complex numbers, just for fun.
